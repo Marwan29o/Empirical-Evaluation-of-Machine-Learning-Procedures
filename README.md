@@ -41,6 +41,7 @@ The analysis considers several model selection criteria and evaluates performanc
 - Structural breaks significantly degrade performance across all methods
 - In real data, **Lasso with cross-validation** produced the best selection
 
-## 📁 Project Structure
+
+
 
 
