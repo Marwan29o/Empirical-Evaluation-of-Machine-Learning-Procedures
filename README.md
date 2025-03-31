@@ -31,7 +31,7 @@ The analysis considers several model selection criteria and evaluates performanc
   - Perfect fitting
   - Overfitting
   - Underfitting
-  - Incorrect models
+  - Wrong models
 
 ## 📊 Key Results
 
